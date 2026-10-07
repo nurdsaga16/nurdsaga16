@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="664" height="255" viewBox="0 0 664 255" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="664" height="413" viewBox="0 0 664 413" role="img" aria-labelledby="title desc">
 <title id="title">Nurdaulet Sagnadin — Software Engineer</title>
-<desc id="desc">Software engineer in Almaty, studying Computer Science at SDU. Stack: Java, Spring Boot, React, PostgreSQL, AWS and Docker.</desc>
-<rect width="664" height="255" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<desc id="desc">Software engineer in Almaty, studying Computer Science at SDU University. Languages, frameworks, cloud, DevOps, backend and tools are listed below.</desc>
+<rect width="664" height="413" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
 <text x="32" y="32" font-size="18" fill="#ffa657" font-family="monospace" font-weight="bold">Nurdaulet Sagnadin:~$ whoami</text>
 <line x1="32" y1="65" x2="632" y2="65" stroke="#30363d"/>
 <text x="32" y="90" font-size="16" fill="#d2a8ff" font-family="monospace" font-weight="bold">Profile</text>
@@ -13,11 +13,21 @@
 <text x="182" y="140" font-size="16" fill="#e6edf3" font-family="monospace">Almaty, Kazakhstan</text>
 <text x="32" y="165" font-size="16" fill="#ffa657" font-family="monospace">Education</text>
 <text x="134" y="165" font-size="16" fill="#484f58" font-family="monospace">....</text>
-<text x="182" y="165" font-size="16" fill="#e6edf3" font-family="monospace">Computer Science @ SDU</text>
-<text x="32" y="190" font-size="16" fill="#ffa657" font-family="monospace">Stack</text>
-<text x="94" y="190" font-size="16" fill="#484f58" font-family="monospace">........</text>
-<text x="182" y="190" font-size="16" fill="#e6edf3" font-family="monospace">Java, Spring Boot, React, PostgreSQL</text>
-<text x="32" y="215" font-size="16" fill="#ffa657" font-family="monospace">Cloud</text>
-<text x="94" y="215" font-size="16" fill="#484f58" font-family="monospace">........</text>
-<text x="182" y="215" font-size="16" fill="#e6edf3" font-family="monospace">AWS, Docker</text>
+<text x="182" y="165" font-size="16" fill="#e6edf3" font-family="monospace">Computer Science @ SDU University</text>
+<text x="32" y="198" font-size="16" fill="#d2a8ff" font-family="monospace" font-weight="bold">Stack</text>
+<text x="32" y="223" font-size="16" fill="#ffa657" font-family="monospace">Languages</text>
+<text x="134" y="223" font-size="16" fill="#484f58" font-family="monospace">....</text>
+<text x="182" y="223" font-size="16" fill="#e6edf3" font-family="monospace">Java, Python, JavaScript (ES6+), PHP, SQL,</text>
+<text x="182" y="248" font-size="16" fill="#e6edf3" font-family="monospace">HTML/CSS</text>
+<text x="32" y="273" font-size="16" fill="#ffa657" font-family="monospace">Frameworks</text>
+<text x="144" y="273" font-size="16" fill="#484f58" font-family="monospace">...</text>
+<text x="182" y="273" font-size="16" fill="#e6edf3" font-family="monospace">Spring Boot, React, Vue 3, Nuxt.js, Laravel,</text>
+<text x="182" y="298" font-size="16" fill="#e6edf3" font-family="monospace">Tailwind CSS</text>
+<text x="32" y="323" font-size="16" fill="#ffa657" font-family="monospace">Cloud/DevOps</text>
+<text x="164" y="323" font-size="16" fill="#484f58" font-family="monospace">.</text>
+<text x="182" y="323" font-size="16" fill="#e6edf3" font-family="monospace">AWS (EC2, S3, RDS), Docker, Git, CI/CD basics</text>
+<text x="32" y="348" font-size="16" fill="#ffa657" font-family="monospace">Backend/Tools</text>
+<text x="174" y="348" font-size="16" fill="#484f58" font-family="monospace"></text>
+<text x="182" y="348" font-size="16" fill="#e6edf3" font-family="monospace">REST API, JWT, Keycloak, PostgreSQL, MongoDB,</text>
+<text x="182" y="373" font-size="16" fill="#e6edf3" font-family="monospace">Swagger, Postman</text>
 </svg>

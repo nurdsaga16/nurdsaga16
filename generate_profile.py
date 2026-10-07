@@ -17,9 +17,13 @@ SECTIONS = [
     ("Profile", [
         ("Role", "Software Engineer"),
         ("Location", "Almaty, Kazakhstan"),
-        ("Education", "Computer Science @ SDU"),
-        ("Stack", "Java, Spring Boot, React, PostgreSQL"),
-        ("Cloud", "AWS, Docker"),
+        ("Education", "Computer Science @ SDU University"),
+    ]),
+    ("Stack", [
+        ("Languages", "Java, Python, JavaScript (ES6+), PHP, SQL, HTML/CSS"),
+        ("Frameworks", "Spring Boot, React, Vue 3, Nuxt.js, Laravel, Tailwind CSS"),
+        ("Cloud/DevOps", "AWS (EC2, S3, RDS), Docker, Git, CI/CD basics"),
+        ("Backend/Tools", "REST API, JWT, Keycloak, PostgreSQL, MongoDB, Swagger, Postman"),
     ]),
 ]
 
@@ -57,8 +61,8 @@ def make_svg():
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{height}" '
         f'viewBox="0 0 {WIDTH} {height}" role="img" aria-labelledby="title desc">',
         f'<title id="title">{html.escape(NAME)} — Software Engineer</title>',
-        '<desc id="desc">Software engineer in Almaty, studying Computer Science at SDU. '
-        'Stack: Java, Spring Boot, React, PostgreSQL, AWS and Docker.</desc>',
+        '<desc id="desc">Software engineer in Almaty, studying Computer Science at SDU University. '
+        'Languages, frameworks, cloud, DevOps, backend and tools are listed below.</desc>',
         f'<rect width="{WIDTH}" height="{height}" rx="10" '
         f'fill="{C["bg"]}" stroke="{C["border"]}" stroke-width="2"/>',
         *out,
