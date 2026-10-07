@@ -1,92 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1020" viewBox="0 0 760 1020" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="664" height="255" viewBox="0 0 664 255" role="img" aria-labelledby="title desc">
 <title id="title">Nurdaulet Sagnadin — Software Engineer</title>
-<desc id="desc">Education, experience, projects, skills and awards. Full resume is available in the repository README.</desc>
-<rect width="760" height="1020" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<desc id="desc">Software engineer in Almaty, studying Computer Science at SDU. Stack: Java, Spring Boot, React, PostgreSQL, AWS and Docker.</desc>
+<rect width="664" height="255" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
 <text x="32" y="32" font-size="18" fill="#ffa657" font-family="monospace" font-weight="bold">Nurdaulet Sagnadin:~$ whoami</text>
-<line x1="32" y1="65" x2="728" y2="65" stroke="#30363d"/>
+<line x1="32" y1="65" x2="632" y2="65" stroke="#30363d"/>
 <text x="32" y="90" font-size="16" fill="#d2a8ff" font-family="monospace" font-weight="bold">Profile</text>
-<text x="32" y="115" font-size="16" fill="#ffa657" font-family="monospace">Name</text>
-<text x="84" y="115" font-size="16" fill="#484f58" font-family="monospace">.............</text>
-<text x="222" y="115" font-size="16" fill="#e6edf3" font-family="monospace">Nurdaulet Sagnadin</text>
-<text x="32" y="140" font-size="16" fill="#ffa657" font-family="monospace">Role</text>
-<text x="84" y="140" font-size="16" fill="#484f58" font-family="monospace">.............</text>
-<text x="222" y="140" font-size="16" fill="#e6edf3" font-family="monospace">Software Engineer</text>
-<text x="32" y="165" font-size="16" fill="#ffa657" font-family="monospace">Location</text>
-<text x="124" y="165" font-size="16" fill="#484f58" font-family="monospace">.........</text>
-<text x="222" y="165" font-size="16" fill="#e6edf3" font-family="monospace">Almaty, Kazakhstan</text>
-<text x="32" y="190" font-size="16" fill="#ffa657" font-family="monospace">Phone</text>
-<text x="94" y="190" font-size="16" fill="#484f58" font-family="monospace">............</text>
-<text x="222" y="190" font-size="16" fill="#e6edf3" font-family="monospace">+7 (775)-944-75-07</text>
-<text x="32" y="223" font-size="16" fill="#d2a8ff" font-family="monospace" font-weight="bold">Education</text>
-<text x="32" y="248" font-size="16" fill="#ffa657" font-family="monospace">University</text>
-<text x="144" y="248" font-size="16" fill="#484f58" font-family="monospace">.......</text>
-<text x="222" y="248" font-size="16" fill="#e6edf3" font-family="monospace">SDU University | BSc Computer Science</text>
-<text x="32" y="273" font-size="16" fill="#ffa657" font-family="monospace">Period</text>
-<text x="104" y="273" font-size="16" fill="#484f58" font-family="monospace">...........</text>
-<text x="222" y="273" font-size="16" fill="#e6edf3" font-family="monospace">2025 - Present | GPA: 3.62/4.0</text>
-<text x="32" y="298" font-size="16" fill="#ffa657" font-family="monospace">Community</text>
-<text x="134" y="298" font-size="16" fill="#484f58" font-family="monospace">........</text>
-<text x="222" y="298" font-size="16" fill="#e6edf3" font-family="monospace">AWS Student Builder Group SDU | Core Team</text>
-<text x="32" y="323" font-size="16" fill="#ffa657" font-family="monospace">College</text>
-<text x="114" y="323" font-size="16" fill="#484f58" font-family="monospace">..........</text>
-<text x="222" y="323" font-size="16" fill="#e6edf3" font-family="monospace">High College Astana Polytechnic</text>
-<text x="32" y="348" font-size="16" fill="#ffa657" font-family="monospace">Degree</text>
-<text x="104" y="348" font-size="16" fill="#484f58" font-family="monospace">...........</text>
-<text x="222" y="348" font-size="16" fill="#e6edf3" font-family="monospace">Information Systems (Honors) | 2022 - 2025</text>
-<text x="32" y="381" font-size="16" fill="#d2a8ff" font-family="monospace" font-weight="bold">Experience</text>
-<text x="32" y="406" font-size="16" fill="#ffa657" font-family="monospace">TAMUR</text>
-<text x="94" y="406" font-size="16" fill="#484f58" font-family="monospace">............</text>
-<text x="222" y="406" font-size="16" fill="#e6edf3" font-family="monospace">Intern Java Developer | Jun - Aug 2026</text>
-<text x="32" y="431" font-size="16" fill="#ffa657" font-family="monospace">Impact</text>
-<text x="104" y="431" font-size="16" fill="#484f58" font-family="monospace">...........</text>
-<text x="222" y="431" font-size="16" fill="#e6edf3" font-family="monospace">eGov batch signing: 67% fewer manual</text>
-<text x="222" y="456" font-size="16" fill="#e6edf3" font-family="monospace">authentication steps</text>
-<text x="32" y="481" font-size="16" fill="#ffa657" font-family="monospace">Mobile</text>
-<text x="104" y="481" font-size="16" fill="#484f58" font-family="monospace">...........</text>
-<text x="222" y="481" font-size="16" fill="#e6edf3" font-family="monospace">Shareholder cabinet: +100% completion rate</text>
-<text x="32" y="506" font-size="16" fill="#ffa657" font-family="monospace">CAIR</text>
-<text x="84" y="506" font-size="16" fill="#484f58" font-family="monospace">.............</text>
-<text x="222" y="506" font-size="16" fill="#e6edf3" font-family="monospace">SDU AI Lab | Sep 2025 - Present</text>
-<text x="32" y="531" font-size="16" fill="#ffa657" font-family="monospace">Role</text>
-<text x="84" y="531" font-size="16" fill="#484f58" font-family="monospace">.............</text>
-<text x="222" y="531" font-size="16" fill="#e6edf3" font-family="monospace">Software Engineer / Software Assistant</text>
-<text x="32" y="556" font-size="16" fill="#ffa657" font-family="monospace">Work</text>
-<text x="84" y="556" font-size="16" fill="#484f58" font-family="monospace">.............</text>
-<text x="222" y="556" font-size="16" fill="#e6edf3" font-family="monospace">AI Moodle plugins, Spring Boot/React apps, AWS</text>
-<text x="32" y="589" font-size="16" fill="#d2a8ff" font-family="monospace" font-weight="bold">Projects</text>
-<text x="32" y="614" font-size="16" fill="#ffa657" font-family="monospace">Arna AI</text>
-<text x="114" y="614" font-size="16" fill="#484f58" font-family="monospace">..........</text>
-<text x="222" y="614" font-size="16" fill="#e6edf3" font-family="monospace">Bilingual AI goal-planning companion | 04/2026</text>
-<text x="32" y="639" font-size="16" fill="#ffa657" font-family="monospace">Stack</text>
-<text x="94" y="639" font-size="16" fill="#484f58" font-family="monospace">............</text>
-<text x="222" y="639" font-size="16" fill="#e6edf3" font-family="monospace">Spring Boot, React, AlemLLM, Langfuse, RAGFlow,</text>
-<text x="222" y="664" font-size="16" fill="#e6edf3" font-family="monospace">AWS</text>
-<text x="32" y="697" font-size="16" fill="#d2a8ff" font-family="monospace" font-weight="bold">Technical Skills</text>
-<text x="32" y="722" font-size="16" fill="#ffa657" font-family="monospace">Languages</text>
-<text x="134" y="722" font-size="16" fill="#484f58" font-family="monospace">........</text>
-<text x="222" y="722" font-size="16" fill="#e6edf3" font-family="monospace">Java, Python, JavaScript (ES6+), PHP, SQL,</text>
-<text x="222" y="747" font-size="16" fill="#e6edf3" font-family="monospace">HTML/CSS</text>
-<text x="32" y="772" font-size="16" fill="#ffa657" font-family="monospace">Frameworks</text>
-<text x="144" y="772" font-size="16" fill="#484f58" font-family="monospace">.......</text>
-<text x="222" y="772" font-size="16" fill="#e6edf3" font-family="monospace">Spring Boot, React, Vue 3, Nuxt.js, Laravel,</text>
-<text x="222" y="797" font-size="16" fill="#e6edf3" font-family="monospace">Tailwind CSS</text>
-<text x="32" y="822" font-size="16" fill="#ffa657" font-family="monospace">Cloud &amp; DevOps</text>
-<text x="184" y="822" font-size="16" fill="#484f58" font-family="monospace">...</text>
-<text x="222" y="822" font-size="16" fill="#e6edf3" font-family="monospace">AWS (EC2, S3, RDS), Docker, Git, CI/CD basics</text>
-<text x="32" y="847" font-size="16" fill="#ffa657" font-family="monospace">Backend</text>
-<text x="114" y="847" font-size="16" fill="#484f58" font-family="monospace">..........</text>
-<text x="222" y="847" font-size="16" fill="#e6edf3" font-family="monospace">REST API, JWT, Keycloak, PostgreSQL, MongoDB</text>
-<text x="32" y="872" font-size="16" fill="#ffa657" font-family="monospace">Tools</text>
-<text x="94" y="872" font-size="16" fill="#484f58" font-family="monospace">............</text>
-<text x="222" y="872" font-size="16" fill="#e6edf3" font-family="monospace">Swagger, Postman</text>
-<text x="32" y="905" font-size="16" fill="#d2a8ff" font-family="monospace" font-weight="bold">Certifications &amp; Awards</text>
-<text x="32" y="930" font-size="16" fill="#ffa657" font-family="monospace">Grand Prix</text>
-<text x="144" y="930" font-size="16" fill="#484f58" font-family="monospace">.......</text>
-<text x="222" y="930" font-size="16" fill="#e6edf3" font-family="monospace">Startup Demo Day 2026 | SDU | 05/2026</text>
-<text x="32" y="955" font-size="16" fill="#ffa657" font-family="monospace">Cisco</text>
-<text x="94" y="955" font-size="16" fill="#484f58" font-family="monospace">............</text>
-<text x="222" y="955" font-size="16" fill="#e6edf3" font-family="monospace">CCNAv7: Introduction to Networks | 04/2024</text>
-<text x="32" y="980" font-size="16" fill="#ffa657" font-family="monospace">Cisco</text>
-<text x="94" y="980" font-size="16" fill="#484f58" font-family="monospace">............</text>
-<text x="222" y="980" font-size="16" fill="#e6edf3" font-family="monospace">IT Essentials: PC Hardware and Software | 06/2023</text>
+<text x="32" y="115" font-size="16" fill="#ffa657" font-family="monospace">Role</text>
+<text x="84" y="115" font-size="16" fill="#484f58" font-family="monospace">.........</text>
+<text x="182" y="115" font-size="16" fill="#e6edf3" font-family="monospace">Software Engineer</text>
+<text x="32" y="140" font-size="16" fill="#ffa657" font-family="monospace">Location</text>
+<text x="124" y="140" font-size="16" fill="#484f58" font-family="monospace">.....</text>
+<text x="182" y="140" font-size="16" fill="#e6edf3" font-family="monospace">Almaty, Kazakhstan</text>
+<text x="32" y="165" font-size="16" fill="#ffa657" font-family="monospace">Education</text>
+<text x="134" y="165" font-size="16" fill="#484f58" font-family="monospace">....</text>
+<text x="182" y="165" font-size="16" fill="#e6edf3" font-family="monospace">Computer Science @ SDU</text>
+<text x="32" y="190" font-size="16" fill="#ffa657" font-family="monospace">Stack</text>
+<text x="94" y="190" font-size="16" fill="#484f58" font-family="monospace">........</text>
+<text x="182" y="190" font-size="16" fill="#e6edf3" font-family="monospace">Java, Spring Boot, React, PostgreSQL</text>
+<text x="32" y="215" font-size="16" fill="#ffa657" font-family="monospace">Cloud</text>
+<text x="94" y="215" font-size="16" fill="#484f58" font-family="monospace">........</text>
+<text x="182" y="215" font-size="16" fill="#e6edf3" font-family="monospace">AWS, Docker</text>
 </svg>

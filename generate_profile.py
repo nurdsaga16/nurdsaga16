@@ -6,53 +6,22 @@ from pathlib import Path
 
 NAME = "Nurdaulet Sagnadin"
 PAD = 32
-WIDTH = 760
+WIDTH = 664
 LINE_HEIGHT = 25
-VALUE_X = 222
+VALUE_X = 182
 VALUE_CHARS = (WIDTH - PAD - VALUE_X) // 10
 C = {"bg": "#0d1117", "border": "#30363d", "sect": "#d2a8ff",
      "label": "#ffa657", "dots": "#484f58", "val": "#e6edf3"}
 
 SECTIONS = [
     ("Profile", [
-        ("Name", NAME),
         ("Role", "Software Engineer"),
         ("Location", "Almaty, Kazakhstan"),
-        ("Phone", "+7 (775)-944-75-07"),
-    ]),
-    ("Education", [
-        ("University", "SDU University | BSc Computer Science"),
-        ("Period", "2025 - Present | GPA: 3.62/4.0"),
-        ("Community", "AWS Student Builder Group SDU | Core Team"),
-        ("College", "High College Astana Polytechnic"),
-        ("Degree", "Information Systems (Honors) | 2022 - 2025"),
-    ]),
-    ("Experience", [
-        ("TAMUR", "Intern Java Developer | Jun - Aug 2026"),
-        ("Impact", "eGov batch signing: 67% fewer manual authentication steps"),
-        ("Mobile", "Shareholder cabinet: +100% completion rate"),
-        ("CAIR", "SDU AI Lab | Sep 2025 - Present"),
-        ("Role", "Software Engineer / Software Assistant"),
-        ("Work", "AI Moodle plugins, Spring Boot/React apps, AWS"),
-    ]),
-    ("Projects", [
-        ("Arna AI", "Bilingual AI goal-planning companion | 04/2026"),
-        ("Stack", "Spring Boot, React, AlemLLM, Langfuse, RAGFlow, AWS"),
-    ]),
-    ("Technical Skills", [
-        ("Languages", "Java, Python, JavaScript (ES6+), PHP, SQL, HTML/CSS"),
-        ("Frameworks", "Spring Boot, React, Vue 3, Nuxt.js, Laravel, Tailwind CSS"),
-        ("Cloud & DevOps", "AWS (EC2, S3, RDS), Docker, Git, CI/CD basics"),
-        ("Backend", "REST API, JWT, Keycloak, PostgreSQL, MongoDB"),
-        ("Tools", "Swagger, Postman"),
-    ]),
-    ("Certifications & Awards", [
-        ("Grand Prix", "Startup Demo Day 2026 | SDU | 05/2026"),
-        ("Cisco", "CCNAv7: Introduction to Networks | 04/2024"),
-        ("Cisco", "IT Essentials: PC Hardware and Software | 06/2023"),
+        ("Education", "Computer Science @ SDU"),
+        ("Stack", "Java, Spring Boot, React, PostgreSQL"),
+        ("Cloud", "AWS, Docker"),
     ]),
 ]
-
 
 def text_line(x, y, text, fill, size=16, bold=False):
     weight = ' font-weight="bold"' if bold else ""
@@ -77,7 +46,7 @@ def make_svg():
             y += LINE_HEIGHT
             out.append(text_line(PAD, y, label, C["label"]))
             out.append(text_line(PAD + len(label) * 10 + 12, y,
-                                 "." * (17 - len(label)), C["dots"]))
+                                 "." * (13 - len(label)), C["dots"]))
             for index, line in enumerate(textwrap.wrap(value, width=VALUE_CHARS)):
                 if index:
                     y += LINE_HEIGHT
@@ -88,8 +57,8 @@ def make_svg():
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{height}" '
         f'viewBox="0 0 {WIDTH} {height}" role="img" aria-labelledby="title desc">',
         f'<title id="title">{html.escape(NAME)} — Software Engineer</title>',
-        '<desc id="desc">Education, experience, projects, skills and awards. '
-        'Full resume is available in the repository README.</desc>',
+        '<desc id="desc">Software engineer in Almaty, studying Computer Science at SDU. '
+        'Stack: Java, Spring Boot, React, PostgreSQL, AWS and Docker.</desc>',
         f'<rect width="{WIDTH}" height="{height}" rx="10" '
         f'fill="{C["bg"]}" stroke="{C["border"]}" stroke-width="2"/>',
         *out,
